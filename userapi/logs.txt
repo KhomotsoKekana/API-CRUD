@@ -1,0 +1,19 @@
+2025-02-04 10:08:09.805 +02:00 [INF] User created successfully
+2025-02-04 10:19:48.586 +02:00 [WRN] Username "khomo" is already taken.
+2025-02-04 10:20:59.435 +02:00 [WRN] Email "khomo@kekana.com" is already registered.
+2025-02-04 10:52:47.599 +02:00 [INF] Attempting login for email: erik.larsson@example.se
+2025-02-04 10:52:48.129 +02:00 [INF] User erik_larsson87 logged in successfully.
+2025-02-04 12:27:47.027 +02:00 [INF] Attempting login for email: erik.larsson@example.se
+2025-02-04 12:27:48.269 +02:00 [INF] User erik_larsson87 logged in successfully.
+2025-02-04 12:40:08.718 +02:00 [INF] Attempting login for email: erik.larsson@example.se
+2025-02-04 12:40:13.640 +02:00 [INF] User erik_larsson87 logged in successfully.
+2025-02-04 15:08:46.185 +02:00 [INF] Attempting login for email: erik.larsson@example.se
+2025-02-04 15:08:49.211 +02:00 [INF] User erik_larsson87 logged in successfully.
+2025-02-05 08:38:28.842 +02:00 [INF] Attempting login for email: string
+2025-02-05 08:38:28.882 +02:00 [WRN] Failed login attempt
+2025-02-05 08:39:15.440 +02:00 [INF] Attempting login for email: lars.jensen@example.com
+2025-02-05 08:39:15.652 +02:00 [INF] User larsj99 logged in successfully.
+2025-02-05 08:47:37.697 +02:00 [INF] Attempting login for email: lars.jensen@example.com
+2025-02-05 08:47:38.418 +02:00 [INF] User larsj99 logged in successfully.
+2025-02-06 09:08:08.150 +02:00 [INF] Attempting login for email: testing@example.com
+2025-02-06 09:08:08.350 +02:00 [INF] User testuser logged in successfully.
